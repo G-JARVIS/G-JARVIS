@@ -2,7 +2,7 @@
 
 > **Code the logic, design the magic.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=gandharvaugale&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=G-JARVIS&color=blue)
 
 ---
 
@@ -13,7 +13,7 @@ Ex-CSI_KJSCE Creative Team Member · Somaiya SwDC Team Member
 
 ---
 
-## 🎯 Core Skills (icons)
+## 🎯 Core Skills 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -38,17 +38,17 @@ Ex-CSI_KJSCE Creative Team Member · Somaiya SwDC Team Member
 
 ---
 
-## 📊 GitHub (optional)
-![Gandharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandharvaugale&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvaugale&layout=compact&theme=tokyonight)
+## 📊 GitHub
+![Gandharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-JARVIS&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-JARVIS&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandharva-ugale)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gandharvaugale@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gandharva_18)
 
 ---
 
-*“Always learning. Always building.”* ✨
+✨ *“Always learning. Always building.”* 
