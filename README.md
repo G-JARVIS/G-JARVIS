@@ -1,101 +1,54 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/G-JARVIS/profile-assets/main/banner.svg" alt="banner" width="100%" style="max-height:220px; object-fit:cover;"/>
-  <h1>Hi 👋, I'm <strong>Gandharva Ugale</strong></h1>
-  <p><strong>MERN Developer</strong> • <strong>UI/UX Designer</strong> • <strong>DSA (Java)</strong> • TY B.Tech CSE</p>
-  <p>KJ Somaiya College of Engineering, Vidyavihar</p>
+# 👋 Hi, I'm Gandharva Ugale
 
-  <!-- profile view -->
-  <img src="https://komarev.com/ghpvc/?username=G-JARVIS&color=blue" alt="profile views" />
-</div>
+> **Code the logic, design the magic.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=gandharvaugale&color=blue)
 
 ---
 
-## 🔭 About Me
-I build full-stack web apps using the **MERN** stack and craft pixel-perfect user experiences in **Figma**. I solve algorithm problems in **Java** and love turning design ideas into working products.
-
-**Team / Highlights**
-- 🎨 CSI_KJSCE — Creative Team Member  
-- 💻 Somaiya SwDC — Team Member  
-- 🎛️ Strong in Figma & UI tools, prototyping, and responsive design
+## 🚀 About Me
+I’m **Gandharva Ugale** — MERN Developer | UI/UX Designer | DSA (Java).  
+Third-Year B.Tech CSE student at **KJ Somaiya College of Engineering, Vidyavihar**.  
+Ex-CSI_KJSCE Creative Team Member · Somaiya SwDC Team Member
 
 ---
 
-## 🧰 Tech & Tools
-**Languages:** JavaScript · TypeScript · Java · HTML · CSS  
-**Frontend:** React · Next.js · Tailwind CSS · Bootstrap  
-**Backend / DB:** Node.js · Express · MongoDB · MySQL  
-**Design / Tools:** Figma · Canva · Adobe XD · VS Code · Git · Postman
+## 🎯 Core Skills (icons)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<p align="left">
-  <!-- small badges for visual appeal -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-</p>
+### Backend / DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+### Languages & DSA
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 🚀 Featured Projects
-> (Pin these repos to your profile to display them)
-
-### 🔹 Project-Name-1 — MERN App (Example)
-**Tech:** React · Node · Express · MongoDB  
-**What:** Responsive product / dashboard app with authentication and REST APIs.  
-`🔗 github.com/G-JARVIS/project-1 • 🔗 Live: your-deploy-link`
-
-### 🔹 Project-Name-2 — UI/UX Case Study
-**Tech:** Figma · React · Tailwind  
-**What:** Design system + prototype + code — includes accessibility fixes and component library.  
-`🔗 github.com/G-JARVIS/project-2 • 🔗 Figma: figma-link`
-
-### 🔹 Project-Name-3 — DSA (Java)
-**Tech:** Java  
-**What:** Algorithm visualizer and problem solutions organized by topic.  
-`🔗 github.com/G-JARVIS/project-3`
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🎨 Design Case Study (template)
-**Project:** *[Project-Name]*  
-- **Problem:** One-line problem statement.  
-- **Role:** UI/UX + Frontend (MERN)  
-- **Process:** Research → Wireframes → Prototype → Dev  
-- **Outcome:** UX improvements / performance metric / link to prototype
-
-(Include 3–5 screenshots in the project README and link the Figma prototype.)
+## 📊 GitHub (optional)
+![Gandharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandharvaugale&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvaugale&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub & Activity
-<p align="left">
-  <img alt="Gandharva's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=G-JARVIS&show_icons=true&theme=tokyonight" />
-  &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-JARVIS&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/G-JARVIS"><img src="https://streak-stats.demolab.com?user=G-JARVIS&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
-> ⚠️ If your GitHub username is different than `G-JARVIS`, replace all `G-JARVIS` occurrences above with your real username.
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
 
 ---
 
-## ✉️ Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/gandharva-ugale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:gandharvaugale@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/gandharva_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://your-portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-101010?style=flat&logo=google-chrome&logoColor=white"/></a>
-</p>
-
----
-
-> *“Designing ideas, coding realities.”* ✨
-
+*“Always learning. Always building.”* ✨
