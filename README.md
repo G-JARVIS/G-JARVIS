@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=gandharvaugale&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=G-JARVIS&color=blue)
 
 ## 🚀 About Me
 Hi! I'm **Gandharva Ugale**, a passionate **MERN Developer**, **UI/UX Designer**, and **DSA Enthusiast (Java)**.  
@@ -9,14 +9,14 @@ Currently a **Third Year BTech CSE Student** at **KJ Somaiya College of Engineer
 With hands-on experience in **frontend, backend, and UI/UX design**, I love building impactful applications and designing beautiful user experiences.  
 
 I’ve also been a part of:
-- 🎨 **Ex-CSI_KJSCE Creative Team Member**  
+- 🎨 **CSI_KJSCE Creative Team Member**  
 - 💻 **Somaiya SwDC Team Member**  
 
 ---
 
 ## 🎓 Education
 - **KJ Somaiya College of Engineering, Vidyavihar**  
-- **KSD’s Model Junior College**  
+- **Matoshri College, Nashik**  
 
 ---
 
@@ -46,19 +46,19 @@ I’ve also been a part of:
 ---
 
 ## 📊 GitHub Stats
-![Gandharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandharvaugale&show_icons=true&theme=tokyonight)
+![Gandharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-JARVIS&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gandharvaugale&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G_JARVIS&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gandharvaugale&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-JARVIS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandharva-ugale)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:gandharvaugale@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/gandharva_18)
 
 ---
 
-✨ *“Code. Design. Innovate. Repeat.”* ✨
+✨ *“Designing ideas, coding realities.”*
