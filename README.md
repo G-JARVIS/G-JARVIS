@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gandharva “JARVIS” Ugale
+# 👋 Hi, I’m Gandharva Ugale
 
 > **Code the logic. Ship the product. Design the experience.**
 
