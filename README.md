@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I’m **Gandharva Ugale (G-JARVIS)** — a **Full-Stack Developer**, **UI/UX Designer**, and **Java DSA practitioner**. Currently a **Third-Year B.Tech CSE student** at **KJ Somaiya College of Engineering, Vidyavihar**.
+I’m **Gandharva Ugale (G-JARVIS)** — a **Full-Stack Developer**, **UI/UX Designer**, and **Java Developer**. Currently a **Third-Year B.Tech Computer Engineering student** at **KJ Somaiya College of Engineering, Vidyavihar**.
 
 * 🛠️ **Current Focus**: Building **Kisan Sahayak**, an AI-based mobile app for real-time agricultural advice.
 * 🏭 **Innovation**: Developing **EvolvX**, an AI-driven marketplace for Industry 4.0 adoption.
@@ -23,8 +23,10 @@ I’m **Gandharva Ugale (G-JARVIS)** — a **Full-Stack Developer**, **UI/UX Des
 ## 🛠️ Technology Stack
 I leverage a modern tech stack to build scalable applications and intelligent systems:
 
-<p>
- ![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,linux,docker,aws)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,linux,docker,aws" />
+  </a>
 </p>
 
 ---
@@ -37,9 +39,9 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 * Created prototype mockups for a Smart India Hackathon (SIH) problem statement.
 * **Tech Stack**: React Native, Python, ML, MongoDB.
 
-### 🏭 EvolvX (Nexus Industrial)
+### 🏭 Unify - (Unified multi-sector opportunity discovery & fair access platform)
 **Industry 4.0 B2B Marketplace**
-* AI-driven marketplace connecting companies with vendors and counselors for Industry 4.0 adoption.
+* AI-driven marketplace connecting companies with vendors and consultants for Industry 4.0 adoption.
 * Developed project methodology, tech stack, and revenue models.
 * **Tech Stack**: Next.js, Node.js, PostgreSQL, AI Integration.
 
@@ -53,9 +55,9 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 ## 📊 Performance & Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=G-JARVIS&show_icons=true&theme=tokyonight" alt="Gandharva's GitHub stats" height="170px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=G-JARVIS&theme=react" alt="GitHub Streak" height="170px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=G-JARVIS&theme=tokyonight" alt="GitHub Streak" height="170px"/>
 </p>
 
 ---
 
-✨ **Learn relentlessly. Build fearlessly. Create impact.**
+✨ **I build things with computer**
