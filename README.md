@@ -50,12 +50,16 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 * Designed an AI-driven predictive hospital management system for the MumbaiHacks 2025 hackathon.
 * Implemented predictive analytics for optimized healthcare resource delivery.
 
----
-
 ## 📊 Performance & Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=G-JARVIS&show_icons=true&theme=tokyonight" alt="Gandharva's GitHub stats" height="170px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-JARVIS&theme=tokyonight" alt="GitHub Streak" height="170px"/>
+</p>
+
+### 📈 Activity Overview
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=G-JARVIS&layout=compact&theme=tokyonight" alt="WakaTime" height="170px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-JARVIS&theme=tokyonight" alt="GitHub Activity Radar" height="170px"/>
 </p>
 
 ---
