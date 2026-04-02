@@ -25,7 +25,7 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,linux,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,aws" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 **AI-Based Agricultural Solution**
 * Developed an AI-based mobile app to provide real-time agricultural advice to farmers.
 * Created prototype mockups for a Smart India Hackathon (SIH) problem statement.
-* **Tech Stack**: React Native, Python, ML, MongoDB.
+* **Tech Stack**: Expo Go, Python, ML, MongoDB.
 
 ### 🏭 Unify - (Unified multi-sector opportunity discovery & fair access platform)
 **Industry 4.0 B2B Marketplace**
