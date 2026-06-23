@@ -25,7 +25,7 @@ I leverage a modern tech stack to build scalable applications and intelligent sy
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,aws, docker" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,figma,canva,vscode,aws" />
   </a>
 </p>
 
